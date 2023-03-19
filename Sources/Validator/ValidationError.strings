@@ -1,0 +1,16 @@
+//rules
+"rule.required" = "%@ is required";
+"rule.notValid" = "%@ is not valid format";
+"rule.mustBe" = "Must be from %d to %d symbols";
+"rule.spaceOnly" = "Can’t contain spaces only";
+"rule.allCases" = "Must be from %d to %d symbols and cannot contain spaces only, is required";
+"rule.isAlredyExist" = "%@ is already exist";
+"rule.inNotReqister" = "%@ is not register";
+"rule.shouldContains" = "%@ should contain at least one letter and one digit";
+"rule.invalidFormat" = "Is invalid format";
+"rule.notMatch" = "Does not match %@";
+"rule.range" = "Must be from %d to %d symbols, is required.";
+"rules.email.equal" = "New and current %@ is equal";
+"rules.username" = "Username can contain only small letters, digits and underscores";
+"rule.range.typed" = "%@ must be from %d to %d symbols";
+"rule.cant.contain.two.underscores" = "Username can’t contain 2 underscores in a row";
